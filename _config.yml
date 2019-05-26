@@ -10,6 +10,7 @@ description: Topics of broader interest, with emphasis on irresponsible actions.
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
+baseurl: /AANotes/
 permalink: /articles/:categories/:year/:month/:day/:title.html
 timezone: America/NewYork
 excerpt_separator: <!--more-->
